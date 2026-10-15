@@ -33,10 +33,10 @@
 ## 🌐 Publications & Live Interactive Calculators
 
 All research papers, empirical datasets, and interactive zero-runtime JavaScript calculators are accessible open-access at **[esportsmath.org](https://esportsmath.org)**:
-- **CS2 Veto & Map Draft Simulator**: [esportsmath.org/tools/cs2-veto-simulator/](https://esportsmath.org/en/tools/cs2-veto-simulator/)
-- **Match & Series Probability Predictor**: [esportsmath.org/tools/match-matrix/](https://esportsmath.org/en/tools/match-matrix/)
-- **In-Play Round Momentum & EV Tracker**: [esportsmath.org/tools/round-momentum/](https://esportsmath.org/en/tools/round-momentum/)
-- **Player Prop & Performance Model**: [esportsmath.org/tools/player-prop-model/](https://esportsmath.org/en/tools/player-prop-model/)
+- **CS2 Veto & Map Draft Simulator**: [esportsmath.org/en/tools/map-veto-analyzer/](https://esportsmath.org/en/tools/map-veto-analyzer/)
+- **Match & Series Probability Predictor**: [esportsmath.org/en/tools/elo-calculator/](https://esportsmath.org/en/tools/elo-calculator/)
+- **In-Play Round Momentum & EV Tracker**: [esportsmath.org/en/tools/round-ev-tracker/](https://esportsmath.org/en/tools/round-ev-tracker/)
+- **Player Prop & Performance Model**: [esportsmath.org/en/tools/player-impact-calculator/](https://esportsmath.org/en/tools/player-impact-calculator/)
 - **10,000-Map Telemetry Preprint**: [esportsmath.org/research/cs2-dota2-tier1-telemetry-study/](https://esportsmath.org/en/research/cs2-dota2-tier1-telemetry-study/)
 
 ---
@@ -51,6 +51,6 @@ If you utilize our algorithms, datasets, or simulation engines in your research 
   author={{EsportsMath Labs}},
   journal={Applied Probability Institute Research Hub},
   year={2026},
-  url={https://esportsmath.org/research/cs2-dota2-tier1-telemetry-study/}
+  url={https://esportsmath.org/en/research/cs2-dota2-tier1-telemetry-study/}
 }
 ```
